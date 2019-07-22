@@ -1,10 +1,20 @@
 body{
     text-align: center;
     font-family: 'Arial';
-    background-color: gray;
+    background-color: #929898;
     color: white;
 }
 
 .titulo{
-    color: blanchedalmond;
+    border: solid black;
+    color: blue;
+}
+
+.caja{
+    width: 100px;
+    height: 100px;
+    border: dashed;
+    padding: 50px;
+    display: -webkit-inline-box;
+    align-items: center;
 }
