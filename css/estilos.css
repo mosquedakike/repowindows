@@ -18,3 +18,8 @@ body{
     display: -webkit-inline-box;
     align-items: center;
 }
+
+.proyectos{
+    color: black;
+    margin: solid;
+}
