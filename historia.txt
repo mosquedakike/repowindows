@@ -4,5 +4,7 @@ Freddy Vega tiene 32 años y nacio en colombia.
 
 Hoy hablaremos de su historia.
 
+Master 1
+
 Mañana podra ser un mejor programador.
 
